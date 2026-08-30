@@ -1,0 +1,14 @@
+The topic I will learn:
+    -> Comments and Escape sequences
+    -> Variables
+    -> Data types
+    -> User input(scanf, getchar, gets)
+    -> Sizeof
+    -> Programs
+        1. ASCII value and ASCII characters
+        2. Lowercase to uppercase
+        3. Number system conversion
+
+    -> Data types
+        1. basic/built in data types: int, float, double, char, void
+        2. derived data types: arrays, unions, pointers, enum, struct
