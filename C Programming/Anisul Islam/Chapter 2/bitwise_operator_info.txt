@@ -1,0 +1,9 @@
+Some details about Bitwise Operator
+
+    List of Bitwise Operator:
+        -> & Bitwise AND
+        -> | Bitwise OR 
+        -> ^ Bitwise ExOR
+        -> >> Right Shift
+        -> << Left Shift
+        -> ~ Bitwise NOT

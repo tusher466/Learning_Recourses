@@ -1,0 +1,9 @@
+Some details about Assignment Operator
+
+    List of Assignment Operator:
+        -> =    
+        -> +=
+        -> -=
+        -> *=
+        -> /=
+        -> %=

@@ -1,0 +1,15 @@
+Some details about Unary Operator
+
+    List of Unary Operator:
+        -> +    (Unary plus)
+        -> -    (Unary minus)
+        -> ++   (Increment)
+        -> --   (Decrement)
+
+        Increment -> 
+            1. Prefix Increment     -> ++a (increments a by one -> Before it is used)
+            2. Postfix Increment    -> a++ (increments a by one -> After it is used)
+
+        Decrement ->
+            1. Prefix Decrement     -> --a (decrements a by one -> Before it is used)
+            2. Postfix Decrement    -> a-- (decrements a by one -> After it is used)    

@@ -1,0 +1,6 @@
+Some details about Logical Operator
+
+    List of Logical Operator:
+        -> && = Logical AND
+        -> || = Logical OR 
+        -> !  = Logical NOT

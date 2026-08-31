@@ -1,0 +1,20 @@
+Some detail about Relational Operator
+
+    List of Relational Operator:
+        -> >
+        -> <
+        -> >=
+        -> <=
+        -> ==
+        -> !=
+
+    Control Statement:
+        1. Conditional Control Statement
+            -> if-else
+            -> switch
+            
+        2. Loop Control Statement
+            -> for
+            -> while
+            -> do while
+
