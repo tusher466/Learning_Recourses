@@ -1,0 +1,13 @@
+In Chapter 3:
+
+    -> for, while, do while loop syntax
+    -> Multiplication table
+    -> Factorial
+    -> Prime Number
+    -> GCD, LCM
+    -> Sum of digits
+    -> Reverse number
+    -> Palindrome
+    -> Armstrong
+    -> Counting number of digits in an integer
+    -> Strong number
